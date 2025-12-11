@@ -61,7 +61,7 @@ The ESP32 runs both as a WiFi client (connecting to the building's network) and 
 |-----------|------------|
 | 🧠 **Brain** | ESP32 microcontroller |
 | 🔌 **Sensor Control** | Custom switching circuit (NPN transistors) |
-| 📳 **Detection** | SW-420 vibration sensors (24 units) |
+| 📳 **Detection** | 801S vibration sensors (24 units) |
 | 🔊 **Alarms** | Relay-controlled sirens |
 | 💬 **Notifications** | Telegram Bot API |
 | 🌐 **Interface** | Web server running on ESP32 |
