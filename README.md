@@ -87,7 +87,7 @@ This means people actually pay attention instead of ignoring constant identical 
 
 ## ✅ Real Results
 
-It works. The system's been running in the building, and theft attempts dropped dramatically. When the siren goes off and everyone's phones start buzzing simultaneously, thieves bail.
+It works. Theft attempts now should drop dramatically. When the siren goes off and everyone's phones start buzzing simultaneously, thieves bail.
 
 The community alert aspect turned out to be more powerful than I expected. It's not just an alarm system - it's a coordinated response system.
 
